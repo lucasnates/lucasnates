@@ -1,4 +1,4 @@
 - 👋 Hi, I'm <b>Lucas</b>
-- 📚 Software Developer in progress
-- 🌱 I’m currently learning C# and .NET
-- 📫 How to reach me contact@lucasnates.com
+- 🚀 Software Developer in progress
+- 📚 I’m currently learning C# and .NET
+- 📥 You can reach me at contact@lucasnates.com
